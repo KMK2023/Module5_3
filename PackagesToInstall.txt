@@ -1,0 +1,9 @@
+npm init (keep index.js) as entry point
+npm install express -save
+
+
+add this to package.json in the script file, "start": "node index.js" and then do npm start
+
+npm install -g nodemon
+
+npm install express
